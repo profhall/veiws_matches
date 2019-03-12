@@ -1,0 +1,15 @@
+Cards Vertical
+  flexBasis auto
+  flexShrink 1
+  width 100%
+  backgroundColor #9400ff
+  flexGrow 1
+  CardsList List
+    from <
+    overflowY auto
+    flexWrap wrap
+    flexDirection row
+    width 100%
+    justifyContent spaceAround
+    Card
+      onClick <

@@ -1,0 +1,18 @@
+NavBar Vertical
+  width 100%
+  height 10%
+  alignItems center
+  justifyContent center
+  shadowColor rgba(100,150,180,0.2)
+  shadowSpread 0
+  shadowBlur 8
+  shadowOffsetY 4
+  shadowOffsetX 0
+  zIndex 1
+  backgroundColor #5700ff
+  Text
+    fontFamily Montserrat
+    fontWeight 800
+    fontSize 18
+    text < Hello Views Tools!
+    color #ffffff
